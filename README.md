@@ -1,9 +1,22 @@
-# An Endless Journey
+![alt text](./header.png "Header Image")
 
-Welcome to my GitHub Profile, my endless journey in the Information Technology World.
+I am an Engineer of Industry Design and Production. Experienced in Web Development, Internet of Things and Information Technology. 
 
-While I advertise myself as a Web Developer, I consider myself a Tech Enthusiastic and I simply love the Information Technology World.
+<details>
+	<summary>Programming/Coding Languages</summary>
+	<ul>
+		<li>HTML5</li>
+		<li>CSS3</li>
+		<li>JavaScript</li>
+		<li>Python 3</li>
+	</ul>
+</details>
 
-In this profile I will be posting my projects whether they are small or big.
-
-Enjoy your stay and thank you for visiting my profile.
+<details>
+	<summary>Tools and Technologies</summary>
+	<ul>
+		<li>Visual Studio Code</li>
+		<li>pyCharm</li>
+		<li>Fedora Server</li>
+		<li></li>
+	</ul>
