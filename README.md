@@ -28,17 +28,10 @@ I also have 10+ years of Professional Experience in Information Technology
 
 ## Skills
 ### STACK:
-<img src="https://img.shields.io/badge/MySQL-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-F29111" />
-<img src="https://img.shields.io/badge/ExpressJS-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-88FF88" />
-<img src="https://img.shields.io/badge/ReactJS-★★★★★-41DFFF" />
-<img src="https://img.shields.io/badge/NodeJS-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-00FF00" />
+<img src="https://img.shields.io/badge/MySQL-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-F29111" /> <img src="https://img.shields.io/badge/ExpressJS-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-88FF88" /> <img src="https://img.shields.io/badge/ReactJS-★★★★★-41DFFF" /> <img src="https://img.shields.io/badge/NodeJS-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-00FF00" />
 
 ### Coding:
-<img src="https://img.shields.io/badge/HTML5-ff7851" /> 
-<img src="https://img.shields.io/badge/CSS3-44b2fb" /> 
-<img src="https://img.shields.io/badge/JavaScript-important" />
-<img src="https://img.shields.io/badge/Python -00FF00" />
-<img src="https://img.shields.io/badge/SQL -FF0000" />
+<img src="https://img.shields.io/badge/HTML5-ff7851" /> <img src="https://img.shields.io/badge/CSS3-44b2fb" /> <img src="https://img.shields.io/badge/JavaScript-important" /> <img src="https://img.shields.io/badge/Python -00FF00" /> <img src="https://img.shields.io/badge/SQL -FF0000" />
 
 <details>
 	<summary>Tools</summary>
