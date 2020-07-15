@@ -1,6 +1,6 @@
 ![alt text](https://raw.githubusercontent.com/mariosffx/mariosffx/master/header.png "Header Image")
 
-# Full Stack Developer at Web-Coders | Information Technology Enthusiast ![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https://github.com/mariosffx)
+# Full Stack Developer at Web-Coders | Information Technology Enthusiast ![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https%3A%2F%2Fgithub.com%2Fmariosffx)
 
 `😁 Marios Toparopoulos` <br />
 `🌍 Athens, Greece` <br />
