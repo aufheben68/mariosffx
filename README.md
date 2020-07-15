@@ -5,8 +5,8 @@
 `😁 Marios Toparopoulos` <br />
 `🌍 Athens, Greece` <br />
 `💼 Entrepreneur | Web Designer/Developer` <br/> 
-`🎓 Full Stack Web Development, Social Hackers Academy` <br />
-`🎓 Industry Design and Production Engineering, University of West Attica`<br />
+`🎓 Full Stack Web Development | Social Hackers Academy` <br />
+`🎓 Industry Design and Production Engineering | University of West Attica`<br />
 
 <a href="https://github.com/mariosffx/mariosffx/blob/master/CV%20-%20Full%20Stack%20Web%20Developer%20-%20Marios%20Toparopoulos.pdf"><img src="https://img.shields.io/badge/🔽Download_My_CV-002366"/></a>
 
