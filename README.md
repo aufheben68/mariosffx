@@ -1,4 +1,4 @@
-![alt text](./header.png "Header Image")
+![alt text](https://raw.githubusercontent.com/mariosffx/mariosffx/master/header.png "Header Image")
 
 I am an Engineer of Industry Design and Production. Experienced in Web Development, Internet of Things and Information Technology. 
 
