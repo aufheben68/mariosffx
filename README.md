@@ -1,6 +1,6 @@
 ![alt text](https://raw.githubusercontent.com/mariosffx/mariosffx/master/header.png "Header Image")
 
-# Full Stack Developer at Web-Coders | Information Technology Enthusiast ![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https%3A%2F%2Fgithub.com%2Fmariosffx)
+# Full Stack Developer at Web-Coders | Information Technology Enthusiast ![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https://github.com/mariosffx)
 
 `😁 Marios Toparopoulos` <br />
 `🌍 Athens, Greece` <br />
@@ -8,12 +8,12 @@
 `🎓 Full Stack Web Development, Social Hackers Academy` <br />
 `🎓 Industry Design and Production Engineering, University of West Attica`<br />
 
-<a href="./CV - Full Stack Web Developer - Marios Toparopoulos.pdf"><img src="https://img.shields.io/badge/🔽Download_My_CV-002366"/></a>
+<a href="https://github.com/mariosffx/mariosffx/blob/master/CV%20-%20Full%20Stack%20Web%20Developer%20-%20Marios%20Toparopoulos.pdf"><img src="https://img.shields.io/badge/🔽Download_My_CV-002366"/></a>
 
 
-<a href="tel:+306947158688" target="_blank"><img src="./icons/tel.png" height="32" alt="Facebook"/></a>
-<a href="mailto:marios@web-coders.net" target="_blank"><img src="./icons/mail.svg" height="32" alt="Facebook"/></a>
-<a href="https://www.facebook.com/mariosffx" target="_blank"><img src="./icons/fb.png" height="32" alt="Facebook"/></a><a href="https://www.coursera.org/user/7069f5c593dff14d164263d5bbe7949c" target="_blank"><img src="./icons/coursera.png" height="32" alt="Coursera"/><a href="https://www.instagram.com/mariosffx" target="_blank"><img src="./icons/ig.png" height="32" alt="Coursera"/></a><a href="https://www.linkedin.com/in/mariosffx" target="_blank"><img src="./icons/in.png" height="32" alt="LinkedIn"/></a>
+<a href="tel:+306947158688" target="_blank"><img src="https://github.com/mariosffx/mariosffx/raw/master/icons/tel.png" height="32" alt="Telephone"/></a>
+<a href="mailto:marios@web-coders.net" target="_blank"><img src="https://github.com/mariosffx/mariosffx/raw/master/icons/mail.svg" height="32" alt="Mail"/></a>
+<a href="https://www.facebook.com/mariosffx" target="_blank"><img src="https://github.com/mariosffx/mariosffx/raw/master/icons/fb.png" height="32" alt="Facebook"/></a><a href="https://www.coursera.org/user/7069f5c593dff14d164263d5bbe7949c" target="_blank"><img src="https://github.com/mariosffx/mariosffx/raw/master/icons/coursera.png" height="32" alt="Coursera"/><a href="https://www.instagram.com/mariosffx" target="_blank"><img src="https://github.com/mariosffx/mariosffx/raw/master/icons/ig.png" height="32" alt="Coursera"/></a><a href="https://www.linkedin.com/in/mariosffx" target="_blank"><img src="https://github.com/mariosffx/mariosffx/raw/master/icons/in.png" height="32" alt="LinkedIn"/></a>
 
 
 I am a student studying **Industry Design and Production Engineering** in the [University of West Attica](https://www.uniwa.gr) and a student studying **Full Stack Web Development** in [Social Hackers Academy](https://www.socialhackers.academy.org). 
