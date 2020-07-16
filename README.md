@@ -8,7 +8,7 @@
 `🎓 Full Stack Web Development | Social Hackers Academy` <br />
 `🎓 Industry Design and Production Engineering | University of West Attica`<br />
 
-<a href="https://github.com/mariosffx/mariosffx/blob/master/CV%20-%20Full%20Stack%20Web%20Developer%20-%20Marios%20Toparopoulos.pdf"><img src="https://img.shields.io/badge/🔽Download_My_CV-002366"/></a>
+<a href="https://github.com/mariosffx/mariosffx/blob/master/CV%20-%20Full%20Stack%20Web%20Developer%20-%20Marios%20Toparopoulos.pdf"><img src="https://img.shields.io/badge/%F0%9F%94%BDDownload_My_CV-002366?style=for-the-badge"/></a>
 
 
 <a href="mailto:marios@web-coders.net"><img src="https://github.com/mariosffx/mariosffx/raw/master/icons/mail.svg" height="32" alt="Mail"/></a><a href="https://www.facebook.com/mariosffx"><img src="https://github.com/mariosffx/mariosffx/raw/master/icons/fb.png" height="32" alt="Facebook"/></a><a href="https://www.instagram.com/mariosffx"><img src="https://github.com/mariosffx/mariosffx/raw/master/icons/ig.png" height="32" alt="Instagram"/></a><a href="https://www.coursera.org/user/7069f5c593dff14d164263d5bbe7949c"><img src="https://github.com/mariosffx/mariosffx/raw/master/icons/coursera.png" height="32" alt="Coursera"/><a href="https://www.linkedin.com/in/mariosffx"><img src="https://github.com/mariosffx/mariosffx/raw/master/icons/in.png" height="32" alt="LinkedIn"/></a>
