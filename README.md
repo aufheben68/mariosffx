@@ -166,6 +166,13 @@ I also have 10+ years of Professional Experience in Information Technology
 - [Google Playbooks](https://play.google.com/books)
 - [Calibre](hhttps://calibre-ebook.com/)
 
+## Favorite Courses:
+
+- [Social Hackers Academy (Top)](https://www.socialhackersacademy.org)
+- [FreeCodeCamp](https://www.freecodecamp.com)
+- [Coursera: Full-Stack Web Development with React Specialization](https://www.coursera.org/specializations/full-stack-react)
+- [Coursera: Python For Everybody Specialization](https://www.coursera.org/specializations/python?)
+
 ## Communities:
 
 - [Facebook WordPress Greek Community](https://www.facebook.com/groups/WordPressGreekCommunity/)
