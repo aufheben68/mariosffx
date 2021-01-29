@@ -180,7 +180,7 @@ I also have 10+ years of Professional Experience in Information Technology
 
 ## Favorite Books
 
-<img src="https://github.com/mariosffx/mariosffx/raw/master/media/books/eloquent.jpg" height="300" alt="Eloquent JavaScript"/>>
+<img src="https://github.com/mariosffx/mariosffx/raw/master/media/books/eloquent.jpg" height="300" alt="Eloquent JavaScript"/>
 
 ## LifeStyle Tips:
 
