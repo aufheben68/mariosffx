@@ -46,7 +46,7 @@ I also have 10+ years of Professional Experience in Information Technology
 	<img src="https://img.shields.io/badge/MaterialUI-★★★★★-C1C1C1" /> 
 </a> &nbsp;
 
-<a href="https://storybook.org/" target="_blank">
+<a href="https://styled-components.com/" target="_blank">
 	<img src="https://img.shields.io/badge/StyledComponents-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-FF00FF" /> 
 </a> &nbsp;
 
