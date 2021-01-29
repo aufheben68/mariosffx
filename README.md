@@ -29,6 +29,15 @@ I am also a **graduated student** of the **Full Stack Web Development** Course a
 
 I also have 10+ years of Professional Experience in Information Technology
 
+<details>
+	<summary>
+		Certificates
+	</summary>
+
+<img src="https://github.com/mariosffx/mariosffx/raw/master/media/certs/CERTIFICATE_LANDING_PAGE_2QNEB2ZSWM79.jpeg" height="150" /> &nbsp; <img src="https://github.com/mariosffx/mariosffx/raw/master/media/certs/CERTIFICATE_LANDING_PAGE_4TEQWQJXR5GY.jpeg" height="150" /> &nbsp; <img src="https://github.com/mariosffx/mariosffx/raw/master/media/certs/CERTIFICATE_LANDING_PAGE_8F8VRN9GRQ7W.jpeg" height="150" /> &nbsp; <img src="https://github.com/mariosffx/mariosffx/raw/master/media/certs/CERTIFICATE_LANDING_PAGE_9DT7ZTWGTCJ4.jpeg" height="150" /> &nbsp; <img src="https://github.com/mariosffx/mariosffx/raw/master/media/certs/CERTIFICATE_LANDING_PAGE_9QX6634Q6S27.jpeg" height="150" /> &nbsp; <img src="https://github.com/mariosffx/mariosffx/raw/master/media/certs/CERTIFICATE_LANDING_PAGE_648APMBH8NH3.jpeg" height="150" /> &nbsp; <img src="https://github.com/mariosffx/mariosffx/raw/master/media/certs/CERTIFICATE_LANDING_PAGE_D82VV59GZPP2.jpeg" height="150" /> &nbsp; <img src="https://github.com/mariosffx/mariosffx/raw/master/media/certs/CERTIFICATE_LANDING_PAGE_EW2G3Z77AVFN.jpeg" height="150" /> &nbsp; <img src="https://github.com/mariosffx/mariosffx/raw/master/media/certs/CERTIFICATE_LANDING_PAGE_LHADZ5F7S8FB.jpeg" height="150" /> &nbsp; <img src="https://github.com/mariosffx/mariosffx/raw/master/media/certs/CERTIFICATE_LANDING_PAGE_MG5MSAQFRPAJ.jpeg" height="150" /> &nbsp; <img src="https://github.com/mariosffx/mariosffx/raw/master/media/certs/CERTIFICATE_LANDING_PAGE_SNFQQAU2CTCD.jpeg" height="150" /> &nbsp; <img src="https://github.com/mariosffx/mariosffx/raw/master/media/certs/CERTIFICATE_LANDING_PAGE_UXET2TMKV36S.jpeg" height="150" /> &nbsp; <img src="https://github.com/mariosffx/mariosffx/raw/master/media/certs/CERTIFICATE_LANDING_PAGE_W7H862NP3ZAP.jpeg" height="150" /> &nbsp; <img src="https://github.com/mariosffx/mariosffx/raw/master/media/certs/CERTIFICATE_LANDING_PAGE_X7VEEFM6A7WH.jpeg" height="150" /> &nbsp; <img src="https://github.com/mariosffx/mariosffx/raw/master/media/certs/CERTIFICATE_LANDING_PAGE_XVXDJB42HFBH.jpeg" height="150" /> &nbsp; <img src="https://github.com/mariosffx/mariosffx/raw/master/media/certs/CERTIFICATE_LANDING_PAGE_YPHEDDT2XSWQ.jpeg" height="150" /> &nbsp; <img src="https://github.com/mariosffx/mariosffx/raw/master/media/certs/eopep.jpg" height="150" /> &nbsp; <img src="https://github.com/mariosffx/mariosffx/raw/master/media/certs/UC-R2RPWL2A.jpg" height="150" /> &nbsp; <img src="https://github.com/mariosffx/mariosffx/raw/master/media/certs/vsues.jpg" height="150" /> &nbsp;
+
+</details>
+
 ## Current Stack:
 
 ### Front-End:
@@ -140,15 +149,6 @@ I also have 10+ years of Professional Experience in Information Technology
 		<li>Joomla</li>
 		<li>Magento</li>
 	</ul>
-</details>
-
-<details>
-<summmary>
-	Certificates
-</summary>
-
-<img src="https://github.com/mariosffx/mariosffx/raw/master/media/certs/CERTIFICATE_LANDING_PAGE_2QNEB2ZSWM79.jpeg" height="150" /> &nbsp; <img src="https://github.com/mariosffx/mariosffx/raw/master/media/certs/CERTIFICATE_LANDING_PAGE_4TEQWQJXR5GY.jpeg" height="150" /> &nbsp; <img src="https://github.com/mariosffx/mariosffx/raw/master/media/certs/CERTIFICATE_LANDING_PAGE_8F8VRN9GRQ7W.jpeg" height="150" /> &nbsp; <img src="https://github.com/mariosffx/mariosffx/raw/master/media/certs/CERTIFICATE_LANDING_PAGE_9DT7ZTWGTCJ4.jpeg" height="150" /> &nbsp; <img src="https://github.com/mariosffx/mariosffx/raw/master/media/certs/CERTIFICATE_LANDING_PAGE_9QX6634Q6S27.jpeg" height="150" /> &nbsp; <img src="https://github.com/mariosffx/mariosffx/raw/master/media/certs/CERTIFICATE_LANDING_PAGE_648APMBH8NH3.jpeg" height="150" /> &nbsp; <img src="https://github.com/mariosffx/mariosffx/raw/master/media/certs/CERTIFICATE_LANDING_PAGE_D82VV59GZPP2.jpeg" height="150" /> &nbsp; <img src="https://github.com/mariosffx/mariosffx/raw/master/media/certs/CERTIFICATE_LANDING_PAGE_EW2G3Z77AVFN.jpeg" height="150" /> &nbsp; <img src="https://github.com/mariosffx/mariosffx/raw/master/media/certs/CERTIFICATE_LANDING_PAGE_LHADZ5F7S8FB.jpeg" height="150" /> &nbsp; <img src="https://github.com/mariosffx/mariosffx/raw/master/media/certs/CERTIFICATE_LANDING_PAGE_MG5MSAQFRPAJ.jpeg" height="150" /> &nbsp; <img src="https://github.com/mariosffx/mariosffx/raw/master/media/certs/CERTIFICATE_LANDING_PAGE_SNFQQAU2CTCD.jpeg" height="150" /> &nbsp; <img src="https://github.com/mariosffx/mariosffx/raw/master/media/certs/CERTIFICATE_LANDING_PAGE_UXET2TMKV36S.jpeg" height="150" /> &nbsp; <img src="https://github.com/mariosffx/mariosffx/raw/master/media/certs/CERTIFICATE_LANDING_PAGE_W7H862NP3ZAP.jpeg" height="150" /> &nbsp; <img src="https://github.com/mariosffx/mariosffx/raw/master/media/certs/CERTIFICATE_LANDING_PAGE_X7VEEFM6A7WH.jpeg" height="150" /> &nbsp; <img src="https://github.com/mariosffx/mariosffx/raw/master/media/certs/CERTIFICATE_LANDING_PAGE_XVXDJB42HFBH.jpeg" height="150" /> &nbsp; <img src="https://github.com/mariosffx/mariosffx/raw/master/media/certs/CERTIFICATE_LANDING_PAGE_YPHEDDT2XSWQ.jpeg" height="150" /> &nbsp; <img src="https://github.com/mariosffx/mariosffx/raw/master/media/certs/eopep.jpg" height="150" /> &nbsp; <img src="https://github.com/mariosffx/mariosffx/raw/master/media/certs/UC-R2RPWL2A.jpg" height="150" /> &nbsp; <img src="https://github.com/mariosffx/mariosffx/raw/master/media/certs/vsues.jpg" height="150" /> &nbsp;
-
 </details>
 
 ## Favorite Books
