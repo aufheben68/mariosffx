@@ -123,6 +123,19 @@ I also have 10+ years of Professional Experience in Information Technology
 	</ul>
 </details>
 
+<details>
+	<summary>Past Experience & Knowledge</summary>
+	<ul>
+		<li>Pyton, Python Flask, BeautifulSoup 4</li>
+		<li>C & C++</li>
+		<li>Bootstrap 3/4</li>
+		<li>jQuery</li>
+		<li>OpenCart</li>
+		<li>Joomla</li>
+		<li>Magento</li>
+	</ul>
+</details>
+
 ## Interesting Articles, Resources, Guides and Tutorials:
 
 - [The Myth of The Full Stack Web Developer](https://worthwhile.com/insights/2019/09/05/myth-full-stack-developer/#:~:text=Glassdoor%20job%20postings.-,In%20theory%2C%20a%20full%2Dstack%20developer%20sounds%20like%20a%20great,servers%2C%20DevOps%2C%20and%20more)
