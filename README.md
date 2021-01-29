@@ -10,7 +10,7 @@
 
 <a href="https://github.com/mariosffx/mariosffx/blob/master/CV%20-%20Web%20Developer%20-%20Marios%20Toparopoulos.pdf"><img src="https://img.shields.io/badge/%F0%9F%94%BDDownload_My_CV-002366?style=for-the-badge"/></a>
 
-<a href="mailto:marios@web-coders.net"><img src="https://github.com/mariosffx/mariosffx/raw/master/icons/mail.svg" height="32" alt="Mail"/></a><a href="https://www.facebook.com/mariosffx"><img src="https://github.com/mariosffx/mariosffx/raw/master/icons/fb.png" height="32" alt="Facebook"/></a><a href="https://www.instagram.com/mariosffx"><img src="https://github.com/mariosffx/mariosffx/raw/master/icons/ig.png" height="32" alt="Instagram"/></a><a href="https://www.coursera.org/user/7069f5c593dff14d164263d5bbe7949c"><img src="https://github.com/mariosffx/mariosffx/raw/master/icons/coursera.png" height="32" alt="Coursera"/><a href="https://www.linkedin.com/in/mariosffx"><img src="https://github.com/mariosffx/mariosffx/raw/master/icons/in.png" height="32" alt="LinkedIn"/></a>
+<a href="mailto:marios@web-coders.net"><img src="https://github.com/mariosffx/mariosffx/raw/master/media/icons/mail.svg" height="32" alt="Mail"/></a><a href="https://www.facebook.com/mariosffx"><img src="https://github.com/mariosffx/mariosffx/raw/master/media/icons/fb.png" height="32" alt="Facebook"/></a><a href="https://www.instagram.com/mariosffx"><img src="https://github.com/mariosffx/mariosffx/raw/master/media/icons/ig.png" height="32" alt="Instagram"/></a><a href="https://www.coursera.org/user/7069f5c593dff14d164263d5bbe7949c"><img src="https://github.com/mariosffx/mariosffx/raw/master/media/icons/coursera.png" height="32" alt="Coursera"/><a href="https://www.linkedin.com/in/mariosffx"><img src="https://github.com/mariosffx/mariosffx/raw/master/media/icons/in.png" height="32" alt="LinkedIn"/></a>
 
 I am a student studying **Industry Design and Production Engineering** at [University of West Attica](https://www.uniwa.gr) and I work as a Front-End Enginer with React.JS at <a href="https://www.intraosft-intl.com" target="_blank">Intrasoft International</a>.
 
@@ -136,12 +136,54 @@ I also have 10+ years of Professional Experience in Information Technology
 	</ul>
 </details>
 
-## Interesting Articles, Resources, Guides and Tutorials:
+## Interesting Articles & Tutorials:
 
 - [The Myth of The Full Stack Web Developer](https://worthwhile.com/insights/2019/09/05/myth-full-stack-developer/#:~:text=Glassdoor%20job%20postings.-,In%20theory%2C%20a%20full%2Dstack%20developer%20sounds%20like%20a%20great,servers%2C%20DevOps%2C%20and%20more)
 - [Web Scraping with Puppeteer](https://www.digitalocean.com/community/tutorials/how-to-scrape-a-website-using-node-js-and-puppeteer)
+
+## Resources:
+
 - [Free For Developers](https://github.com/ripienaar/free-for-dev)
 - [Coding from Any Device with VSCode Server](https://www.youtube.com/watch?v=UFxVvrrufsA&feature=emb_logo)
 - [Awesome Self-Hosted App List](https://github.com/awesome-selfhosted/awesome-selfhosted)
 - [Awesome Sys-Admin App List](https://github.com/n1trux/awesome-sysadmin)
 - [Internet of Things Framework with JavaScript](https://iotjs.net/)
+
+## Interesting Libraries:
+
+- [GatsbyJS](https://www.gatsbyjs.com)
+- [NextJS](https://nextjs.org/)
+
+## Communities:
+
+- [Facebook WordPress Greek Community](https://www.facebook.com/groups/WordPressGreekCommunity/)
+- [Facebook WooCommerce](https://www.facebook.com/groups/advanced.woocommerce/)
+- [Έλληνες Προγραμματιστές & Designers](https://www.facebook.com/groups/greek.developers/)
+- [Reddit: Startups Community](https://www.reddit.com/r/startups/)
+- [Reddit: Computer Science Career Questions](https://www.reddit.com/r/cscareerquestions/)
+- [Reddit: JavaScript Community](https://www.reddit.com/r/javascript/)
+- [Reddit: ReactJS Community](https://www.reddit.com/r/reactjs/)
+- [Reddit: GatsbyJS Community](https://www.reddit.com/r/gatsbyjs/)
+- [Reddit: Ask Programming](https://www.reddit.com/r/AskProgramming/)
+- [Reddit: Ubuntu Community](https://www.reddit.com/r/reactjs/)
+- [Reddit: Anki Community](https://www.reddit.com/r/Anki/)
+- [Reddit: Learn Programming](https://www.reddit.com/r/learnprogramming/)
+- [Reddit: Python Education](https://www.reddit.com/r/learnpython/)
+- [Reddit: NodeJS](https://www.reddit.com/r/node/)
+
+## Tools for Learning
+
+- [Anki](https://ankiweb.net/about)
+- [Libgen](https://www.libgen.is/)
+- [Google Playbooks](https://play.google.com/books)
+- [Calibre](hhttps://calibre-ebook.com/)
+
+## Favorite Books
+
+- [Eloquent JavaScript by Marijn Haverbeke](https://eloquentjavascript.net/)
+- []()
+- []()
+
+## LifeStyle Tips:
+
+- [FlexJobs - Remote Working](https://www.flexjobs.com/)
