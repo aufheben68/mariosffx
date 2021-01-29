@@ -144,6 +144,26 @@ I also have 10+ years of Professional Experience in Information Technology
 
 ## Certificates:
 
+<img src="https://github.com/mariosffx/mariosffx/raw/master/media/certs/CERTIFICATE_LANDING_PAGE_2QNEB2ZSWM79.jpg" height="250" />
+<img src="https://github.com/mariosffx/mariosffx/raw/master/media/certs/CERTIFICATE_LANDING_PAGE_4TEQWQJXR5GY.jpg" height="250" />
+<img src="https://github.com/mariosffx/mariosffx/raw/master/media/certs/CERTIFICATE_LANDING_PAGE_8F8VRN9GRQ7W.jpg" height="250" />
+<img src="https://github.com/mariosffx/mariosffx/raw/master/media/certs/CERTIFICATE_LANDING_PAGE_9DT7ZTWGTCJ4.jpg" height="250" />
+<img src="https://github.com/mariosffx/mariosffx/raw/master/media/certs/CERTIFICATE_LANDING_PAGE_9QX6634Q6S27.jpg" height="250" />
+<img src="https://github.com/mariosffx/mariosffx/raw/master/media/certs/CERTIFICATE_LANDING_PAGE_648APMBH8NH3.jpg" height="250" />
+<img src="https://github.com/mariosffx/mariosffx/raw/master/media/certs/CERTIFICATE_LANDING_PAGE_D82VV59GZPP2.jpg" height="250" />
+<img src="https://github.com/mariosffx/mariosffx/raw/master/media/certs/CERTIFICATE_LANDING_PAGE_EW2G3Z77AVFN.jpg" height="250" />
+<img src="https://github.com/mariosffx/mariosffx/raw/master/media/certs/CERTIFICATE_LANDING_PAGE_LHADZ5F7S8FB.jpg" height="250" />
+<img src="https://github.com/mariosffx/mariosffx/raw/master/media/certs/CERTIFICATE_LANDING_PAGE_MG5MSAQFRPAJ.jpg" height="250" />
+<img src="https://github.com/mariosffx/mariosffx/raw/master/media/certs/CERTIFICATE_LANDING_PAGE_SNFQQAU2CTCD.jpg" height="250" />
+<img src="https://github.com/mariosffx/mariosffx/raw/master/media/certs/CERTIFICATE_LANDING_PAGE_UXET2TMKV36S.jpg" height="250" />
+<img src="https://github.com/mariosffx/mariosffx/raw/master/media/certs/CERTIFICATE_LANDING_PAGE_W7H862NP3ZAP.jpg" height="250" />
+<img src="https://github.com/mariosffx/mariosffx/raw/master/media/certs/CERTIFICATE_LANDING_PAGE_X7VEEFM6A7WH.jpg" height="250" />
+<img src="https://github.com/mariosffx/mariosffx/raw/master/media/certs/CERTIFICATE_LANDING_PAGE_XVXDJB42HFBH.jpg" height="250" />
+<img src="https://github.com/mariosffx/mariosffx/raw/master/media/certs/CERTIFICATE_LANDING_PAGE_YPHEDDT2XSWQ.jpg" height="250" />
+<img src="https://github.com/mariosffx/mariosffx/raw/master/media/certs/eopep.jpg" height="250" />
+<img src="https://github.com/mariosffx/mariosffx/raw/master/media/certs/UC-R2RPWL2A.jpg" height="250" />
+<img src="https://github.com/mariosffx/mariosffx/raw/master/media/certs/vsues.jpg" height="250" />
+
 ## Favorite Books
 
 <img src="https://github.com/mariosffx/mariosffx/raw/master/media/books/live_love_learn.jpg" height="150" alt="να ζεις ν'αγαπάς και να μαθαίνεις"/> &nbsp; <img src="https://github.com/mariosffx/mariosffx/raw/master/media/books/the_alchemist.jpg" height="150" alt="The Alchemist"/> &nbsp; <img src="https://github.com/mariosffx/mariosffx/raw/master/media/books/platon.jpg" height="150" alt="Η Πολιτεία του Πλάτωνα"/> &nbsp; <img src="https://github.com/mariosffx/mariosffx/raw/master/media/books/glaros.jpg" height="150" alt="Ο Γλάρος Ιωνάθαν Λίβινγκστον"/> &nbsp; <img src="https://github.com/mariosffx/mariosffx/raw/master/media/books/influence.jpg" height="150" alt="Influence: Science and Practice"/> &nbsp; <img src="https://github.com/mariosffx/mariosffx/raw/master/media/books/eloquent.jpg" height="150" alt="Eloquent JavaScript"/> &nbsp; <img src="https://github.com/mariosffx/mariosffx/raw/master/media/books/you_dont_know_js.jpg" height="150" alt="You Don't Know JS"/> &nbsp;
