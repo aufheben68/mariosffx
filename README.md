@@ -170,6 +170,7 @@ I also have 10+ years of Professional Experience in Information Technology
 - [Reddit: Learn Programming](https://www.reddit.com/r/learnprogramming/)
 - [Reddit: Python Education](https://www.reddit.com/r/learnpython/)
 - [Reddit: NodeJS](https://www.reddit.com/r/node/)
+- [Reddit: Digital Nomad](https://www.reddit.com/r/digitalnomad/)
 
 ## Tools for Learning
 
@@ -180,8 +181,7 @@ I also have 10+ years of Professional Experience in Information Technology
 
 ## Favorite Books
 
-<img src="https://github.com/mariosffx/mariosffx/raw/master/media/books/live_love_learn.jpg" height="150" alt="να ζεις ν'αγαπάς και να μαθαίνεις"/> &nbsp; <img src="https://github.com/mariosffx/mariosffx/raw/master/media/books/platon.jpg" height="150" alt="Η Πολιτεία του Πλάτωνα"/> &nbsp; <img src="https://github.com/mariosffx/mariosffx/raw/master/media/books/glaros.jpg" height="150" alt="Ο Γλάρος Ιωνάθαν Λίβινγκστον"/> &nbsp; <img src="https://github.com/mariosffx/mariosffx/raw/master/media/books/influence.jpg" height="150" alt="Influence: Science and Practice"/> &nbsp;
-<img src="https://github.com/mariosffx/mariosffx/raw/master/media/books/the_alchemist.jpg" height="150" alt="The Alchemist"/> &nbsp; <img src="https://github.com/mariosffx/mariosffx/raw/master/media/books/you_dont_know_js.jpg" height="150" alt="You Don't Know JS"/> &nbsp; <img src="https://github.com/mariosffx/mariosffx/raw/master/media/books/eloquent.jpg" height="150" alt="Eloquent JavaScript"/>
+<img src="https://github.com/mariosffx/mariosffx/raw/master/media/books/live_love_learn.jpg" height="150" alt="να ζεις ν'αγαπάς και να μαθαίνεις"/> &nbsp; <img src="https://github.com/mariosffx/mariosffx/raw/master/media/books/the_alchemist.jpg" height="150" alt="The Alchemist"/> &nbsp; <img src="https://github.com/mariosffx/mariosffx/raw/master/media/books/platon.jpg" height="150" alt="Η Πολιτεία του Πλάτωνα"/> &nbsp; <img src="https://github.com/mariosffx/mariosffx/raw/master/media/books/glaros.jpg" height="150" alt="Ο Γλάρος Ιωνάθαν Λίβινγκστον"/> &nbsp; <img src="https://github.com/mariosffx/mariosffx/raw/master/media/books/influence.jpg" height="150" alt="Influence: Science and Practice"/> &nbsp; <img src="https://github.com/mariosffx/mariosffx/raw/master/media/books/eloquent.jpg" height="150" alt="Eloquent JavaScript"/> &nbsp; <img src="https://github.com/mariosffx/mariosffx/raw/master/media/books/you_dont_know_js.jpg" height="150" alt="You Don't Know JS"/> &nbsp;
 
 ## LifeStyle Tips:
 
