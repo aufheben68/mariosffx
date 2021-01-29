@@ -183,7 +183,8 @@ I also have 10+ years of Professional Experience in Information Technology
 <img src="https://github.com/mariosffx/mariosffx/raw/master/media/books/live_love_learn.jpg" height="150" alt="να ζεις ν'αγαπάς και να μαθαίνεις"/>
 <img src="https://github.com/mariosffx/mariosffx/raw/master/media/books/platon.jpg" height="150" alt="Η Πολιτεία του Πλάτωνα"/>
 <img src="https://github.com/mariosffx/mariosffx/raw/master/media/books/glaros.jpg" height="150" alt="Ο Γλάρος Ιωνάθαν Λίβινγκστον"/>
-<img src="https://github.com/mariosffx/mariosffx/raw/master/media/books/the_alchemist.jpg" height="150" alt="You Don't Know JS"/>
+<img src="https://github.com/mariosffx/mariosffx/raw/master/media/books/the_alchemist.jpg" height="150" alt="The Alchemist"/>
+<img src="https://github.com/mariosffx/mariosffx/raw/master/media/books/you_dont_know_js.jpg" height="150" alt="You Don't Know JS"/>
 <img src="https://github.com/mariosffx/mariosffx/raw/master/media/books/eloquent.jpg" height="150" alt="Eloquent JavaScript"/>
 
 ## LifeStyle Tips:
