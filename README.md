@@ -124,7 +124,7 @@ I also have 10+ years of Professional Experience in Information Technology
 </details>
 
 <details>
-	<summary>Past Experience & Knowledge</summary>
+	<summary>Past Experience & Knowledge (No Longer Used)</summary>
 	<ul>
 		<li>Pyton, Python Flask, BeautifulSoup 4</li>
 		<li>C & C++</li>
@@ -135,6 +135,10 @@ I also have 10+ years of Professional Experience in Information Technology
 		<li>Magento</li>
 	</ul>
 </details>
+
+## Favorite Books
+
+<img src="https://github.com/mariosffx/mariosffx/raw/master/media/books/live_love_learn.jpg" height="150" alt="να ζεις ν'αγαπάς και να μαθαίνεις"/> &nbsp; <img src="https://github.com/mariosffx/mariosffx/raw/master/media/books/the_alchemist.jpg" height="150" alt="The Alchemist"/> &nbsp; <img src="https://github.com/mariosffx/mariosffx/raw/master/media/books/platon.jpg" height="150" alt="Η Πολιτεία του Πλάτωνα"/> &nbsp; <img src="https://github.com/mariosffx/mariosffx/raw/master/media/books/glaros.jpg" height="150" alt="Ο Γλάρος Ιωνάθαν Λίβινγκστον"/> &nbsp; <img src="https://github.com/mariosffx/mariosffx/raw/master/media/books/influence.jpg" height="150" alt="Influence: Science and Practice"/> &nbsp; <img src="https://github.com/mariosffx/mariosffx/raw/master/media/books/eloquent.jpg" height="150" alt="Eloquent JavaScript"/> &nbsp; <img src="https://github.com/mariosffx/mariosffx/raw/master/media/books/you_dont_know_js.jpg" height="150" alt="You Don't Know JS"/> &nbsp;
 
 ## Interesting Articles & Tutorials:
 
@@ -148,11 +152,19 @@ I also have 10+ years of Professional Experience in Information Technology
 - [Awesome Self-Hosted App List](https://github.com/awesome-selfhosted/awesome-selfhosted)
 - [Awesome Sys-Admin App List](https://github.com/n1trux/awesome-sysadmin)
 - [Internet of Things Framework with JavaScript](https://iotjs.net/)
+- [Flavio Copes](https://flaviocopes.com/)
 
 ## Interesting Libraries:
 
 - [GatsbyJS](https://www.gatsbyjs.com)
 - [NextJS](https://nextjs.org/)
+
+## Tools for Learning
+
+- [Anki](https://ankiweb.net/about)
+- [Libgen](https://www.libgen.is/)
+- [Google Playbooks](https://play.google.com/books)
+- [Calibre](hhttps://calibre-ebook.com/)
 
 ## Communities:
 
@@ -172,17 +184,25 @@ I also have 10+ years of Professional Experience in Information Technology
 - [Reddit: NodeJS](https://www.reddit.com/r/node/)
 - [Reddit: Digital Nomad](https://www.reddit.com/r/digitalnomad/)
 
-## Tools for Learning
-
-- [Anki](https://ankiweb.net/about)
-- [Libgen](https://www.libgen.is/)
-- [Google Playbooks](https://play.google.com/books)
-- [Calibre](hhttps://calibre-ebook.com/)
-
-## Favorite Books
-
-<img src="https://github.com/mariosffx/mariosffx/raw/master/media/books/live_love_learn.jpg" height="150" alt="να ζεις ν'αγαπάς και να μαθαίνεις"/> &nbsp; <img src="https://github.com/mariosffx/mariosffx/raw/master/media/books/the_alchemist.jpg" height="150" alt="The Alchemist"/> &nbsp; <img src="https://github.com/mariosffx/mariosffx/raw/master/media/books/platon.jpg" height="150" alt="Η Πολιτεία του Πλάτωνα"/> &nbsp; <img src="https://github.com/mariosffx/mariosffx/raw/master/media/books/glaros.jpg" height="150" alt="Ο Γλάρος Ιωνάθαν Λίβινγκστον"/> &nbsp; <img src="https://github.com/mariosffx/mariosffx/raw/master/media/books/influence.jpg" height="150" alt="Influence: Science and Practice"/> &nbsp; <img src="https://github.com/mariosffx/mariosffx/raw/master/media/books/eloquent.jpg" height="150" alt="Eloquent JavaScript"/> &nbsp; <img src="https://github.com/mariosffx/mariosffx/raw/master/media/books/you_dont_know_js.jpg" height="150" alt="You Don't Know JS"/> &nbsp;
-
-## LifeStyle Tips:
+## Job Hunting Portals
 
 - [FlexJobs - Remote Working](https://www.flexjobs.com/)
+- [Fiverr](https://www.fiverr.com/)
+- [Freelancer](https://freelancer.com)
+- [Upwork](https://www.upwork.com/)
+- [Workable](https://www.workable.com/)
+- [EURES: European Job Network](https://ec.europa.eu/eures/public/language-selection)
+- [Reddit: RemoteJS](https://www.reddit.com/r/remotejs)
+
+## Establishing a Business
+
+- [Freelance Web Developer Guide](https://www.freecodecamp.org/news/freelance-web-developer-guide/)
+- [E-Stonian E-Residency - Open a Digital Business in Estonian](https://e-resident.gov.ee/)
+
+## Payment Gateways:
+
+- [Payoneer](https://www.payoneer.com/)
+- [Stripe](https://stripe.com/en-gr)
+- [Revolut](https://www.revolut.com/en-GR)
+- [N26](https://n26.com/en-eu)
+- [TransferWise](https://transferwise.com/)
