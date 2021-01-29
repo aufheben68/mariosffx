@@ -93,6 +93,12 @@ I also have 10+ years of Professional Experience in Information Technology
 	<img src="https://img.shields.io/badge/Wordpress-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-000000" />
 </a> &nbsp;
 
+### Deployment:
+
+<a href="https://www.docker.com" target="_blank">
+	<img src="https://img.shields.io/badge/Docker-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-FFFF00" />
+</a> &nbsp;
+
 ### Coding:
 
 <img src="https://img.shields.io/badge/HTML5-ff7851" /> <img src="https://img.shields.io/badge/CSS3-44b2fb" /> <img src="https://img.shields.io/badge/TypeScript-important" />
@@ -179,7 +185,7 @@ I also have 10+ years of Professional Experience in Information Technology
 
 - [Facebook WordPress Greek Community](https://www.facebook.com/groups/WordPressGreekCommunity/)
 - [Facebook WooCommerce](https://www.facebook.com/groups/advanced.woocommerce/)
-- [Έλληνες Προγραμματιστές & Designers](https://www.facebook.com/groups/greek.developers/)
+- [Facebook Έλληνες Προγραμματιστές & Designers](https://www.facebook.com/groups/greek.developers/)
 - [Reddit: Startups Community](https://www.reddit.com/r/startups/)
 - [Reddit: Computer Science Career Questions](https://www.reddit.com/r/cscareerquestions/)
 - [Reddit: JavaScript Community](https://www.reddit.com/r/javascript/)
