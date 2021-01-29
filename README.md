@@ -179,7 +179,7 @@ I also have 10+ years of Professional Experience in Information Technology
 - [Anki](https://ankiweb.net/about)
 - [Libgen](https://www.libgen.is/)
 - [Google Playbooks](https://play.google.com/books)
-- [Calibre](hhttps://calibre-ebook.com/)
+- [Calibre](https://calibre-ebook.com/)
 
 ## Favorite Courses:
 
