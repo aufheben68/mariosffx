@@ -12,7 +12,9 @@
 
 <a href="mailto:marios@web-coders.net"><img src="https://github.com/mariosffx/mariosffx/raw/master/icons/mail.svg" height="32" alt="Mail"/></a><a href="https://www.facebook.com/mariosffx"><img src="https://github.com/mariosffx/mariosffx/raw/master/icons/fb.png" height="32" alt="Facebook"/></a><a href="https://www.instagram.com/mariosffx"><img src="https://github.com/mariosffx/mariosffx/raw/master/icons/ig.png" height="32" alt="Instagram"/></a><a href="https://www.coursera.org/user/7069f5c593dff14d164263d5bbe7949c"><img src="https://github.com/mariosffx/mariosffx/raw/master/icons/coursera.png" height="32" alt="Coursera"/><a href="https://www.linkedin.com/in/mariosffx"><img src="https://github.com/mariosffx/mariosffx/raw/master/icons/in.png" height="32" alt="LinkedIn"/></a>
 
-I am a student studying **Industry Design and Production Engineering** at [University of West Attica](https://www.uniwa.gr) and I work as a Front-End Enginer with React.JS at <a href="https://www.intraosft-intl.com" target="_blank">Intrasoft International</a> and a graduated student of the **Full Stack Web Development** Course at [Social Hackers Academy](https://www.socialhackersacademy.org).
+I am a student studying **Industry Design and Production Engineering** at [University of West Attica](https://www.uniwa.gr) and I work as a Front-End Enginer with React.JS at <a href="https://www.intraosft-intl.com" target="_blank">Intrasoft International</a>.
+
+I am also a **graduated student** of the **Full Stack Web Development** Course at [Social Hackers Academy](https://www.socialhackersacademy.org).
 
 <blockquote>
 	One <s><b>Ring</s> Programming Language</b> to Rule them All
@@ -93,11 +95,8 @@ I also have 10+ years of Professional Experience in Information Technology
 
 ### Coding:
 
-<img src="https://img.shields.io/badge/HTML5-ff7851" /> 
-<img src="https://img.shields.io/badge/CSS3-44b2fb" /> 
-<img src="https://img.shields.io/badge/TypeScript-important" /> 
-<img src="https://img.shields.io/badge/SQL-FF0000" />
-<img src="https://img.shields.io/badge/NoSQL-00FF00" />
+<img src="https://img.shields.io/badge/HTML5-ff7851" /> <img src="https://img.shields.io/badge/CSS3-44b2fb" /> <img src="https://img.shields.io/badge/TypeScript-important" />
+<img src="https://img.shields.io/badge/SQL-FF0000" /> <img src="https://img.shields.io/badge/NoSQL-00FF00" />
 
 <details>
 	<summary>Tools</summary>
