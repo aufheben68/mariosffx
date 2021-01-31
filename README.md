@@ -174,7 +174,7 @@ I am also a **graduated student** of the **Full Stack Web Development** Course a
 ## Favorite Books
 
 <a href="https://www.goodreads.com/book/show/225546.Living_Loving_Learning" target="_blank">
-	<img src="https://github.com/mariosffx/mariosffx/raw/master/media/books/live_love_learn.jpg" height="150" alt="να ζεις ν'αγαπάς και να μαθαίνεις"/> 
+	<img src="https://github.com/mariosffx/mariosffx/raw/master/media/books/live_love_learn.jpg" height="150" alt="Living Loving Learning"/> 
 </a> &nbsp;
 <a href="https://www.goodreads.com/book/show/18144590-the-alchemist" target="_blank">
 	<img src="https://github.com/mariosffx/mariosffx/raw/master/media/books/the_alchemist.jpg" height="150" alt="The Alchemist"/>
@@ -183,7 +183,7 @@ I am also a **graduated student** of the **Full Stack Web Development** Course a
 	<img src="https://github.com/mariosffx/mariosffx/raw/master/media/books/homo-sapiens.jpg" height="150" alt="Homo Sapiens"/> 
 </a> &nbsp; 
 <a href="" target="_blank">
-	<img src="https://github.com/mariosffx/mariosffx/raw/master/media/books/platon.jpg" height="150" alt="Η Πολιτεία του Πλάτωνα"/>
+	<img src="https://github.com/mariosffx/mariosffx/raw/master/media/books/plato.jpg" height="150" alt="Plato The Republic"/>
 </a> &nbsp; 
 <a href="" target="_blank">
 	<img src="https://github.com/mariosffx/mariosffx/raw/master/media/books/glaros.jpg" height="150" alt="Ο Γλάρος Ιωνάθαν Λίβινγκστον"/>
