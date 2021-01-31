@@ -182,7 +182,7 @@ I am also a **graduated student** of the **Full Stack Web Development** Course a
 <a href="https://www.goodreads.com/book/show/23692271-sapiens" target="_blank">
 	<img src="https://github.com/mariosffx/mariosffx/raw/master/media/books/homo-sapiens.jpg" height="150" alt="Homo Sapiens"/> 
 </a> &nbsp; 
-<a href="" target="_blank">
+<a href="https://www.goodreads.com/book/show/30289.The_Republic" target="_blank">
 	<img src="https://github.com/mariosffx/mariosffx/raw/master/media/books/plato.jpg" height="150" alt="Plato The Republic"/>
 </a> &nbsp; 
 <a href="https://www.goodreads.com/book/show/71728.Jonathan_Livingston_Seagull" target="_blank">
