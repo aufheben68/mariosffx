@@ -12,7 +12,7 @@
 
 <a href="mailto:marios@web-coders.net"><img src="https://github.com/mariosffx/mariosffx/raw/master/media/icons/mail.svg" height="32" alt="Mail"/></a><a href="https://www.facebook.com/mariosffx"><img src="https://github.com/mariosffx/mariosffx/raw/master/media/icons/fb.png" height="32" alt="Facebook"/></a><a href="https://www.instagram.com/mariosffx"><img src="https://github.com/mariosffx/mariosffx/raw/master/media/icons/ig.png" height="32" alt="Instagram"/></a><a href="https://www.coursera.org/user/7069f5c593dff14d164263d5bbe7949c"><img src="https://github.com/mariosffx/mariosffx/raw/master/media/icons/coursera.png" height="32" alt="Coursera"/><a href="https://www.linkedin.com/in/mariosffx"><img src="https://github.com/mariosffx/mariosffx/raw/master/media/icons/in.png" height="32" alt="LinkedIn"/></a>
 
-I am a student studying **Industry Design and Production Engineering** at [University of West Attica](https://www.uniwa.gr) and I work as a Front-End Enginer with React.JS at <a href="https://www.intrasoft-intl.com" target="_blank">Intrasoft International</a>.
+I am a student studying **Industry Design and Production Engineering** at [University of West Attica](https://www.uniwa.gr) and I work as a Front-End Engineer with React.JS at <a href="https://www.intrasoft-intl.com" target="_blank">Intrasoft International</a>.
 
 I am also a **graduated student** of the **Full Stack Web Development** Course at [Social Hackers Academy](https://www.socialhackersacademy.org).
 
@@ -27,14 +27,30 @@ I am also a **graduated student** of the **Full Stack Web Development** Course a
 - Web Development
 - Linux Server Administration
 
-I also have 10+ years of Professional Experience in Information Technology
-
 <details>
 	<summary>
 		Certificates
 	</summary>
 
-<img src="https://github.com/mariosffx/mariosffx/raw/master/media/certs/CERTIFICATE_LANDING_PAGE_2QNEB2ZSWM79.jpeg" height="150" /> &nbsp; <img src="https://github.com/mariosffx/mariosffx/raw/master/media/certs/CERTIFICATE_LANDING_PAGE_4TEQWQJXR5GY.jpeg" height="150" /> &nbsp; <img src="https://github.com/mariosffx/mariosffx/raw/master/media/certs/CERTIFICATE_LANDING_PAGE_8F8VRN9GRQ7W.jpeg" height="150" /> &nbsp; <img src="https://github.com/mariosffx/mariosffx/raw/master/media/certs/CERTIFICATE_LANDING_PAGE_9DT7ZTWGTCJ4.jpeg" height="150" /> &nbsp; <img src="https://github.com/mariosffx/mariosffx/raw/master/media/certs/CERTIFICATE_LANDING_PAGE_9QX6634Q6S27.jpeg" height="150" /> &nbsp; <img src="https://github.com/mariosffx/mariosffx/raw/master/media/certs/CERTIFICATE_LANDING_PAGE_648APMBH8NH3.jpeg" height="150" /> &nbsp; <img src="https://github.com/mariosffx/mariosffx/raw/master/media/certs/CERTIFICATE_LANDING_PAGE_D82VV59GZPP2.jpeg" height="150" /> &nbsp; <img src="https://github.com/mariosffx/mariosffx/raw/master/media/certs/CERTIFICATE_LANDING_PAGE_EW2G3Z77AVFN.jpeg" height="150" /> &nbsp; <img src="https://github.com/mariosffx/mariosffx/raw/master/media/certs/CERTIFICATE_LANDING_PAGE_LHADZ5F7S8FB.jpeg" height="150" /> &nbsp; <img src="https://github.com/mariosffx/mariosffx/raw/master/media/certs/CERTIFICATE_LANDING_PAGE_MG5MSAQFRPAJ.jpeg" height="150" /> &nbsp; <img src="https://github.com/mariosffx/mariosffx/raw/master/media/certs/CERTIFICATE_LANDING_PAGE_SNFQQAU2CTCD.jpeg" height="150" /> &nbsp; <img src="https://github.com/mariosffx/mariosffx/raw/master/media/certs/CERTIFICATE_LANDING_PAGE_UXET2TMKV36S.jpeg" height="150" /> &nbsp; <img src="https://github.com/mariosffx/mariosffx/raw/master/media/certs/CERTIFICATE_LANDING_PAGE_W7H862NP3ZAP.jpeg" height="150" /> &nbsp; <img src="https://github.com/mariosffx/mariosffx/raw/master/media/certs/CERTIFICATE_LANDING_PAGE_X7VEEFM6A7WH.jpeg" height="150" /> &nbsp; <img src="https://github.com/mariosffx/mariosffx/raw/master/media/certs/CERTIFICATE_LANDING_PAGE_XVXDJB42HFBH.jpeg" height="150" /> &nbsp; <img src="https://github.com/mariosffx/mariosffx/raw/master/media/certs/CERTIFICATE_LANDING_PAGE_YPHEDDT2XSWQ.jpeg" height="150" /> &nbsp; <img src="https://github.com/mariosffx/mariosffx/raw/master/media/certs/eopep.jpg" height="150" /> &nbsp; <img src="https://github.com/mariosffx/mariosffx/raw/master/media/certs/UC-R2RPWL2A.jpg" height="150" /> &nbsp; <img src="https://github.com/mariosffx/mariosffx/raw/master/media/certs/vsues.jpg" height="150" /> &nbsp;
+<img src="https://github.com/mariosffx/mariosffx/raw/master/media/certs/CERTIFICATE_LANDING_PAGE_2QNEB2ZSWM79.jpeg" height="400" />
+<img src="https://github.com/mariosffx/mariosffx/raw/master/media/certs/CERTIFICATE_LANDING_PAGE_4TEQWQJXR5GY.jpeg" height="400" />
+<img src="https://github.com/mariosffx/mariosffx/raw/master/media/certs/CERTIFICATE_LANDING_PAGE_8F8VRN9GRQ7W.jpeg" height="400" /> 
+<img src="https://github.com/mariosffx/mariosffx/raw/master/media/certs/CERTIFICATE_LANDING_PAGE_9DT7ZTWGTCJ4.jpeg" height="400" /> 
+<img src="https://github.com/mariosffx/mariosffx/raw/master/media/certs/CERTIFICATE_LANDING_PAGE_9QX6634Q6S27.jpeg" height="400" />  
+<img src="https://github.com/mariosffx/mariosffx/raw/master/media/certs/CERTIFICATE_LANDING_PAGE_648APMBH8NH3.jpeg" height="400" />  
+<img src="https://github.com/mariosffx/mariosffx/raw/master/media/certs/CERTIFICATE_LANDING_PAGE_D82VV59GZPP2.jpeg" height="400" />  
+<img src="https://github.com/mariosffx/mariosffx/raw/master/media/certs/CERTIFICATE_LANDING_PAGE_EW2G3Z77AVFN.jpeg" height="400" />  
+<img src="https://github.com/mariosffx/mariosffx/raw/master/media/certs/CERTIFICATE_LANDING_PAGE_LHADZ5F7S8FB.jpeg" height="400" />  
+<img src="https://github.com/mariosffx/mariosffx/raw/master/media/certs/CERTIFICATE_LANDING_PAGE_MG5MSAQFRPAJ.jpeg" height="400" />  
+<img src="https://github.com/mariosffx/mariosffx/raw/master/media/certs/CERTIFICATE_LANDING_PAGE_SNFQQAU2CTCD.jpeg" height="400" />  
+<img src="https://github.com/mariosffx/mariosffx/raw/master/media/certs/CERTIFICATE_LANDING_PAGE_UXET2TMKV36S.jpeg" height="400" />  
+<img src="https://github.com/mariosffx/mariosffx/raw/master/media/certs/CERTIFICATE_LANDING_PAGE_W7H862NP3ZAP.jpeg" height="400" />  
+<img src="https://github.com/mariosffx/mariosffx/raw/master/media/certs/CERTIFICATE_LANDING_PAGE_X7VEEFM6A7WH.jpeg" height="400" />  
+<img src="https://github.com/mariosffx/mariosffx/raw/master/media/certs/CERTIFICATE_LANDING_PAGE_XVXDJB42HFBH.jpeg" height="400" />  
+<img src="https://github.com/mariosffx/mariosffx/raw/master/media/certs/CERTIFICATE_LANDING_PAGE_YPHEDDT2XSWQ.jpeg" height="400" />  
+<img src="https://github.com/mariosffx/mariosffx/raw/master/media/certs/eopep.jpg" height="400" />  
+<img src="https://github.com/mariosffx/mariosffx/raw/master/media/certs/UC-R2RPWL2A.jpg" height="400" />  
+<img src="https://github.com/mariosffx/mariosffx/raw/master/media/certs/vsues.jpg" height="400" /> 
 
 </details>
 
@@ -51,12 +67,13 @@ I also have 10+ years of Professional Experience in Information Technology
 
 ### UI/UX Design:
 
+
 <a href="https://material-ui.org/" target="_blank">
-	<img src="https://img.shields.io/badge/MaterialUI-★★★★★-C1C1C1" /> 
+	<img src="https://img.shields.io/static/v1?label=Material-UI&message=★★★★★&color=#00FF00" /> 
 </a> &nbsp;
 
 <a href="https://styled-components.com/" target="_blank">
-	<img src="https://img.shields.io/badge/StyledComponents-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-FF00FF" /> 
+	<img src="https://img.shields.io/static/v1?label=Styled-Components&message=★★★★★&color=#FF0000" /> 
 </a> &nbsp;
 
 <a href="https://storybook.js.org/" target="_blank">
@@ -65,11 +82,15 @@ I also have 10+ years of Professional Experience in Information Technology
 
 ### Back-End:
 
-<a href="https://www.nodejs.org" target="_blank">
+<a href="https://www.jestjs.io" target="_blank">
 	<img src="https://img.shields.io/badge/NodeJS-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-00FF00" />
 </a> &nbsp;
 <a href="https://www.expressjs.com" target="_blank">
 	<img src="https://img.shields.io/badge/ExpressJS-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-88FF88" />
+</a> &nbsp;
+
+<a href="https://www.gatsbyjs.com/docs/glossary/headless-wordpress/#:~:text=Headless%20WordPress%20is%20the%20practice,the%20frontend%20that%20displays%20it." target="_blank">
+	<img src="https://img.shields.io/static/v1?label=Headless%20Wordpress&message=★★★★★&color=#202020" /> 
 </a> &nbsp;
 <a href="https://www.mysql.com" target="_blank">
 	<img src="https://img.shields.io/badge/MySQL-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-F29111" />
@@ -90,7 +111,7 @@ I also have 10+ years of Professional Experience in Information Technology
 ### Unit Testing & Automation:
 
 <a href="https://www.jestjs.org" target="_blank">
-	<img src="https://img.shields.io/badge/NodeJS-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-00FF00" />
+	<img src="https://img.shields.io/static/v1?label=JestJS&message=★★★★★&color=#0000FF" />
 </a> &nbsp;
 <a href="https://pptr.dev/" target="_blank">
 	<img src="https://img.shields.io/badge/PuppeteerJS-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-FF00AA" /> 
@@ -110,8 +131,7 @@ I also have 10+ years of Professional Experience in Information Technology
 
 ### Coding:
 
-<img src="https://img.shields.io/badge/HTML5-ff7851" /> <img src="https://img.shields.io/badge/CSS3-44b2fb" /> <img src="https://img.shields.io/badge/TypeScript-important" />
-<img src="https://img.shields.io/badge/SQL-FF0000" /> <img src="https://img.shields.io/badge/NoSQL-00FF00" />
+<img src="https://img.shields.io/badge/HTML5-ff7851" /> &nbsp; <img src="https://img.shields.io/badge/Markdown-ffffff" /> &nbsp; <img src="https://img.shields.io/badge/CSS3-44b2fb" /> &nbsp; <img src="https://img.shields.io/badge/TypeScript-important" /> &nbsp; <img src="https://img.shields.io/badge/SQL-FF0000" /> &nbsp; <img src="https://img.shields.io/badge/NoSQL-00FF00" />
 
 <details>
 	<summary>Tools</summary>
@@ -153,7 +173,30 @@ I also have 10+ years of Professional Experience in Information Technology
 
 ## Favorite Books
 
-<img src="https://github.com/mariosffx/mariosffx/raw/master/media/books/live_love_learn.jpg" height="150" alt="να ζεις ν'αγαπάς και να μαθαίνεις"/> &nbsp; <img src="https://github.com/mariosffx/mariosffx/raw/master/media/books/the_alchemist.jpg" height="150" alt="The Alchemist"/> &nbsp; <img src="https://github.com/mariosffx/mariosffx/raw/master/media/books/platon.jpg" height="150" alt="Η Πολιτεία του Πλάτωνα"/> &nbsp; <img src="https://github.com/mariosffx/mariosffx/raw/master/media/books/glaros.jpg" height="150" alt="Ο Γλάρος Ιωνάθαν Λίβινγκστον"/> &nbsp; <img src="https://github.com/mariosffx/mariosffx/raw/master/media/books/influence.jpg" height="150" alt="Influence: Science and Practice"/> &nbsp; <img src="https://github.com/mariosffx/mariosffx/raw/master/media/books/eloquent.jpg" height="150" alt="Eloquent JavaScript"/> &nbsp; <img src="https://github.com/mariosffx/mariosffx/raw/master/media/books/you_dont_know_js.jpg" height="150" alt="You Don't Know JS"/> &nbsp;
+<a href="https://www.goodreads.com/book/show/225546.Living_Loving_Learning" target="_blank">
+	<img src="https://github.com/mariosffx/mariosffx/raw/master/media/books/live_love_learn.jpg" height="150" alt="να ζεις ν'αγαπάς και να μαθαίνεις"/> 
+</a> &nbsp;
+<a href="https://www.goodreads.com/book/show/18144590-the-alchemist" target="_blank">
+	<img src="https://github.com/mariosffx/mariosffx/raw/master/media/books/the_alchemist.jpg" height="150" alt="The Alchemist"/>
+</a> &nbsp;
+<a href="https://www.goodreads.com/book/show/23692271-sapiens" target="_blank">
+	<img src="https://github.com/mariosffx/mariosffx/raw/master/media/books/homo-sapiens.jpg" height="150" alt="Homo Sapiens"/> 
+</a> &nbsp; 
+<a href="" target="_blank">
+	<img src="https://github.com/mariosffx/mariosffx/raw/master/media/books/platon.jpg" height="150" alt="Η Πολιτεία του Πλάτωνα"/>
+</a> &nbsp; 
+<a href="" target="_blank">
+	<img src="https://github.com/mariosffx/mariosffx/raw/master/media/books/glaros.jpg" height="150" alt="Ο Γλάρος Ιωνάθαν Λίβινγκστον"/>
+</a> &nbsp; 
+<a href="" target="_blank">
+	<img src="https://github.com/mariosffx/mariosffx/raw/master/media/books/influence.jpg" height="150" alt="Influence: Science and Practice"/> 
+</a> &nbsp; 
+<a href="" target="_blank">
+	<img src="https://github.com/mariosffx/mariosffx/raw/master/media/books/eloquent.jpg" height="150" alt="Eloquent JavaScript"/>
+</a> &nbsp;
+<a href="" target="_blank">
+	<img src="https://github.com/mariosffx/mariosffx/raw/master/media/books/you_dont_know_js.jpg" height="150" alt="You Don't Know JS"/>
+</a>
 
 ## Interesting Articles & Tutorials:
 
@@ -219,7 +262,7 @@ I also have 10+ years of Professional Experience in Information Technology
 ## Establishing a Business
 
 - [Freelance Web Developer Guide](https://www.freecodecamp.org/news/freelance-web-developer-guide/)
-- [E-Stonian E-Residency - Open a Digital Business in Estonian](https://e-resident.gov.ee/)
+- [E-Stonian E-Residency - Open a Digital Business in Estonia](https://e-resident.gov.ee/)
 
 ## Payment Gateways:
 
