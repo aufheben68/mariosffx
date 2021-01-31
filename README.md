@@ -104,7 +104,7 @@ I am also a **graduated student** of the **Full Stack Web Development** Course a
 <a href="https://mongoosejs.com" target="_blank">
 	<img src="https://img.shields.io/badge/Mongoose%20ODM-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-00FF00" />
 </a> &nbsp;
-<a href="https://mongoosejs.com" target="_blank">
+<a href="http://www.passportjs.org/" target="_blank">
 	<img src="https://img.shields.io/badge/PassportJS-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-1A1A1A" />
 </a>
 
