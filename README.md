@@ -117,7 +117,7 @@ I am also a **graduated student** of the **Full Stack Web Development** Course a
 	<img src="https://img.shields.io/badge/PuppeteerJS-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-FF00AA" /> 
 </a>
 
-### Content Management System
+### Content Management Systems:
 
 <a href="https://www.wordpress.org" target="_blank">
 	<img src="https://img.shields.io/badge/Wordpress-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-000000" />
@@ -171,7 +171,7 @@ I am also a **graduated student** of the **Full Stack Web Development** Course a
 	</ul>
 </details>
 
-## Favorite Books
+## Favorite Books:
 
 <a href="https://www.goodreads.com/book/show/225546.Living_Loving_Learning" target="_blank">
 	<img src="https://github.com/mariosffx/mariosffx/raw/master/media/books/live_love_learn.jpg" height="150" alt="Living Loving Learning"/> 
@@ -217,7 +217,7 @@ I am also a **graduated student** of the **Full Stack Web Development** Course a
 - [GatsbyJS](https://www.gatsbyjs.com)
 - [NextJS](https://nextjs.org/)
 
-## Tools for Learning
+## Tools for Learning:
 
 - [Anki](https://ankiweb.net/about)
 - [Libgen](https://www.libgen.is/)
@@ -258,7 +258,7 @@ I am also a **graduated student** of the **Full Stack Web Development** Course a
 - [Reddit: NodeJS](https://www.reddit.com/r/node/)
 - [Reddit: Digital Nomad](https://www.reddit.com/r/digitalnomad/)
 
-## Job Hunting Portals
+## Job Hunting Portals:
 
 - [FlexJobs - Remote Working](https://www.flexjobs.com/)
 - [Fiverr](https://www.fiverr.com/)
@@ -268,7 +268,7 @@ I am also a **graduated student** of the **Full Stack Web Development** Course a
 - [EURES: European Job Network](https://ec.europa.eu/eures/public/language-selection)
 - [Reddit: RemoteJS](https://www.reddit.com/r/remotejs)
 
-## Establishing a Business
+## Establishing a Business:
 
 - [Freelance Web Developer Guide](https://www.freecodecamp.org/news/freelance-web-developer-guide/)
 - [How to start a Company Online in Estonia](https://e-resident.gov.ee/start-a-company/)
