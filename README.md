@@ -195,7 +195,7 @@ I am also a **graduated student** of the **Full Stack Web Development** Course a
 	<img src="https://github.com/mariosffx/mariosffx/raw/master/media/books/eloquent.jpg" height="150" alt="Eloquent JavaScript"/>
 </a> &nbsp;
 <a href="https://github.com/getify/You-Dont-Know-JS" target="_blank">
-	<img src="https://github.com/mariosffx/mariosffx/raw/master/media/books/you_dont_know_js.jpg" height="150" alt="You Don't Know JS Yet"/>
+	<img src="https://github.com/mariosffx/mariosffx/raw/master/media/books/you_dont_know_js.png" height="150" alt="You Don't Know JS Yet"/>
 </a>
 
 ## Interesting Articles & Tutorials:
