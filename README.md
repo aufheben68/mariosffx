@@ -231,11 +231,20 @@ I am also a **graduated student** of the **Full Stack Web Development** Course a
 - [Coursera: Full-Stack Web Development with React Specialization](https://www.coursera.org/specializations/full-stack-react)
 - [Coursera: Python For Everybody Specialization](https://www.coursera.org/specializations/python?)
 
+## Favorite MeetUp Groups:
+- [Devs Alliance](https://www.meetup.com/Devs-Alliance/)
+- [Social Cinema Events](https://www.meetup.com/social-cinema/)
+- [GreeceJS](https://www.meetup.com/GreeceJS/)
+- [Athens Book Society](https://www.meetup.com/Athens-Literature-Meetup/)
+- [Athens Epitrapezia](https://www.meetup.com/Friends-of-Board-Games-Epitrapezia/)
+- [React to React](https://www.meetup.com/React-To-React-Athens-MeetUp/)
+- [NodeJS Athens](https://www.meetup.com/nodejsathens/)
+
 ## Communities:
 
-- [Facebook WordPress Greek Community](https://www.facebook.com/groups/WordPressGreekCommunity/)
-- [Facebook WooCommerce](https://www.facebook.com/groups/advanced.woocommerce/)
-- [Facebook Έλληνες Προγραμματιστές & Designers](https://www.facebook.com/groups/greek.developers/)
+- [Facebook: WordPress Greek Community](https://www.facebook.com/groups/WordPressGreekCommunity/)
+- [Facebook: WooCommerce](https://www.facebook.com/groups/advanced.woocommerce/)
+- [Facebook: Έλληνες Προγραμματιστές & Designers](https://www.facebook.com/groups/greek.developers/)
 - [Reddit: Startups Community](https://www.reddit.com/r/startups/)
 - [Reddit: Computer Science Career Questions](https://www.reddit.com/r/cscareerquestions/)
 - [Reddit: JavaScript Community](https://www.reddit.com/r/javascript/)
