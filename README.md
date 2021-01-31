@@ -262,7 +262,7 @@ I am also a **graduated student** of the **Full Stack Web Development** Course a
 ## Establishing a Business
 
 - [Freelance Web Developer Guide](https://www.freecodecamp.org/news/freelance-web-developer-guide/)
-- [E-Stonian E-Residency - Open a Digital Business in Estonia](https://e-resident.gov.ee/)
+- [How to start a Company Online in Estonia](https://e-resident.gov.ee/start-a-company/)
 
 ## Payment Gateways:
 
